@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" method="upgrade" group="jshoppingproducts">
+	<name>JoomShopping - Prev / Next Product</name>
+	<author>Beagler</author>
+	<creationDate>September, 2013</creationDate>
+	<copyright>Copyright by Beagler. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>beagler@beagler.ru</authorEmail>
+	<authorUrl>http://begler.ru/</authorUrl>
+    <version>1.0</version>
+	<description>PLG_PREV_NEXT_PRODUCT_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="prev_next_product">prev_next_product.php</filename>
+	</files>
+</install>
